@@ -5,8 +5,8 @@
 - Tugas ini harus dikerjakan di database `tugasasis_indexing` yang telah Anda buat sebelumnya.
 - Tugas dikerjakan dengan LaTeX dan dikumpulkan dalam format PDF, sertakan screenshot hasil `EXPLAIN ANALYZE` dari query yang telah Anda jalankan atau boleh setiap langkah yang Anda lakukan.
 - Gunakan format penulisan yang baik dan benar, serta gunakan bahasa Indonesia yang baku.
-- Kirimkan hasil tugas ke WhatsApp asisten (https://wa.me/6285234115941) dengan format nama file `TugasAsistensi_1_NRP_Nama Lengkap.pdf`.
-  > (contoh: `TugasAsistensi_1_5024221058_Rigel Ramadhani Waloni.pdf`).
+- Kirimkan hasil tugas ke WhatsApp asisten (https://wa.me/6285234115941) dengan format nama file `TugasAsistensi_(NoKelompok)_(NRP)_(Nama Lengkap).pdf`.
+  > (contoh: `TugasAsistensi_10_5024221058_Rigel Ramadhani Waloni.pdf`).
 - **Batas pengumpulan tugas adalah sebelum agenda Asistensi pada tanggal `18 Mei 2025 pukul 09.00 WIB`.**
 - Jika ada kendala dalam mengerjakan tugas, silahkan bisa ditanyakan melalui WhatsApp.
 
