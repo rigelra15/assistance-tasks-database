@@ -11,9 +11,9 @@
   1. Tugas Asistensi (PDF)
   2. Laporan Lengkap (PDF)
   3. SQL Script (SQL) yang sudah kalian buat
-- Kirimkan secara terpisah di Google Drive - [Pengumpulan Praktikum 2 (klik di sini)](https://drive.google.com/drive/folders/15u4Nlqzs5x8a8fuIZiGaFopOHhl46ZP5?usp=sharing) sesuai folder nama masing-masing yang telah disediakan, dengan format nama file khusus untuk file tugas adalah `TugasAsistensi2_(NoKelompok)_(NRP)_(Nama Lengkap).pdf`.
+- Pengumpulan di Google Drive - [Pengumpulan Praktikum 2 (klik di sini)](https://drive.google.com/drive/folders/15u4Nlqzs5x8a8fuIZiGaFopOHhl46ZP5?usp=sharing) sesuai folder nama masing-masing yang telah disediakan, dengan format nama file khusus untuk file tugas adalah `TugasAsistensi2_(NoKelompok)_(NRP)_(Nama Lengkap).pdf`.
   > (Contoh: `TugasAsistensi2_10_5024221058_Rigel Ramadhani Waloni.pdf`)
-- Untuk Laporan Lengkap, kalian langsung kumpulkan di Google Drive yang sama (di atas), tidak perlu buat Google Drive sendiri, aku sediakan saja.
+- Untuk Laporan Lengkap, kalian langsung kumpulkan di Google Drive yang sama (di atas), tidak perlu buat Google Drive sendiri.
 - **Batas pengumpulan SQL Script + Tugas Asistensi + Laporan Full/Lengkap adalah sebelum agenda Asistensi pada tanggal `25 Mei 2025 pukul 09.00 WIB`.**
 ---
 
